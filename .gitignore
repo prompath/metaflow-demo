@@ -12,3 +12,6 @@ wheels/
 # Artifacts
 data/
 artifacts/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
